@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: Delayed Neutron Data Library for Spontaneous Fission
+message: "If you use this data, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - given-names: Anthony
+    name-particle: J.
+    family-names: Nelson
+  - given-names: William
+    family-names: Zywiec
+license: BSD-3-Clause
+# doi: 10.5281/zenodo.XXXXXXX  # Update after Zenodo mints the DOI
+date-released: "2026-04-08"
+abstract: >-
+  Delayed neutron energy spectra and total yields for 211 actinide
+  nuclides (Z = 89 through 106) undergoing spontaneous fission,
+  computed with the GEF 2025/V1.2 Monte Carlo fission model.
+keywords:
+  - delayed neutrons
+  - spontaneous fission
+  - nuclear data
+  - GEF
